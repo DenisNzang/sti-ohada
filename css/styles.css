@@ -1,0 +1,14 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+footer {
+  font-family: 'Ubuntu', sans-serif;
+  padding-top: 56px;
+  align-self: center;
+  text-align: center;
+}
+
+.separator {
+    text-align: center;
+}
